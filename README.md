@@ -58,13 +58,13 @@ This hands-on lab demonstrates how to monitor data engineering activities in Mic
    - Submitted By
    - etc.
 
-### Key Features Demonstrated
+# Key Features Demonstrated
 
 ▸ Unified Monitoring: Track all Fabric items in one hub
 ▸ Run History: Audit past executions with detailed metadata
 ▸ Custom Views: Filter by status/type and select relevant columns
 
-### Cleanup
+# Cleanup
 
 1. Navigate to Workspace Settings
 2. Select "Remove this workspace"
