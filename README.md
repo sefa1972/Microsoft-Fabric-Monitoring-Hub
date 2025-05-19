@@ -73,6 +73,6 @@ This hands-on lab demonstrates how to monitor data engineering activities in Mic
 
 ## 👤 Author: Sefa Öztürk
 
-BT Stajyeri | Azure Veri Mühendisi devam ediyor
+IT Intern | Azure Data Engineer (Ongoing)
 
 📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
