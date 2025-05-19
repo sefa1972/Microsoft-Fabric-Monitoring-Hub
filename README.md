@@ -70,3 +70,9 @@ This hands-on lab demonstrates how to monitor data engineering activities in Mic
 
 1. Navigate to Workspace Settings
 2. Select "Remove this workspace"
+
+## 👤 Author: Sefa Öztürk
+
+BT Stajyeri | Azure Veri Mühendisi devam ediyor
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
