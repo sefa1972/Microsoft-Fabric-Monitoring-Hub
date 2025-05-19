@@ -2,14 +2,14 @@
 
 This hands-on lab demonstrates how to monitor data engineering activities in Microsoft Fabric using the centralized Monitoring Hub.
 
-## Lab Objectives
+# Lab Objectives
 
 ✔️ Create and monitor a Lakehouse  
 ✔️ Build and track Dataflow Gen2 pipelines  
 ✔️ Run and observe Spark notebook executions  
 ✔️ Customize monitoring views for operational analytics  
 
-## Prerequisites
+# Prerequisites
 
 - Microsoft Fabric tenant access
 - Workspace with Fabric capacity (Trial/Premium/Fabric)
@@ -18,7 +18,7 @@ This hands-on lab demonstrates how to monitor data engineering activities in Mic
   - Spark notebooks
   - Lakehouse architecture
 
-## Step-by-Step Guide
+# Step-by-Step Guide
 
 ### 1. Workspace Setup
 
@@ -61,7 +61,9 @@ This hands-on lab demonstrates how to monitor data engineering activities in Mic
 # Key Features Demonstrated
 
 ▸ Unified Monitoring: Track all Fabric items in one hub
+
 ▸ Run History: Audit past executions with detailed metadata
+
 ▸ Custom Views: Filter by status/type and select relevant columns
 
 # Cleanup
