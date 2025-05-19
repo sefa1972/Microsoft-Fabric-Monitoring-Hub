@@ -1,4 +1,4 @@
-# Microsoft Fabric Monitoring Hub Lab
+# Microsoft Fabric Monitoring Hub 
 
 This hands-on lab demonstrates how to monitor data engineering activities in Microsoft Fabric using the centralized Monitoring Hub.
 
